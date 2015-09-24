@@ -1,0 +1,16 @@
+
+*.svn-base
+
+.svn/format
+
+.svn/wc.db
+
+.svn/entries
+
+.idea/workspace.xml
+
+.idea/vcs.xml
+
+*.xml
+
+.idea/recipeAutomation.iml
